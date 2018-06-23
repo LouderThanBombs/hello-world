@@ -1,2 +1,2 @@
 # hello-world
-try to learn C++
+For studying C++ language 
